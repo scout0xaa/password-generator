@@ -18,7 +18,7 @@ const PasswordGenerator = () => {
                     <StrengthMeter strength={strength} />
                     <LengthSlider setLengthPassword={setLengthPassword} lengthPassword={lengthPassword} />
                     <CheckboxGroup useUppercase={useUppercase} setUseUppercase={setUseUppercase} useNumbers={useNumbers} setUseNumbers={setUseNumbers} useSymbols={useSymbols} setUseSymbols={setUseSymbols} />
-                    <p className="text-center text-red-900 font-mono">by heavyrainnoemptystreet</p>
+                    <p className="text-center text-red-900 font-mono">by scout0xaa</p>
                 </section>
             </div>
         </div>
